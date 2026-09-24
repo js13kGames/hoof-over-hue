@@ -1,4 +1,8 @@
 ---
+genres:
+  - racing
+  - platformer
+  - arcade
 directors_cut: https://ingong.github.io/game/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
